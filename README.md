@@ -1,5 +1,5 @@
 # LangChainSQLBot
-Functional Chatbot with Langchain sql Agent
+Functional Chatbot with Langchain SQL Agent
 
 Chatbot with Langchain sql Agent
 
